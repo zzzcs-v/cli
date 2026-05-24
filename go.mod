@@ -7,3 +7,6 @@ require (
 )
 
 require golang.org/x/text v0.14.0
+
+// personal fork - bumping go version to 1.22 for range-over-int support
+// see: https://tip.golang.org/doc/go1.22
